@@ -100,15 +100,15 @@ This runs the backup script every day at 2 AM.
 
 ### Update Script Output
 
-![Update Script](../screenshots/update.png)
+![Update Script](../screenshot/update.png)
 
 ### Backup Script Output
 
-![Backup Script](../screenshots/backup.png)
+![Backup Script](../screenshot/backup.png)
 
 ### Monitoring Script Output
 
-![Monitoring Script](../screenshots/monitor.png)
+![Monitoring Script](../screenshot/monitor.png)
 
 ---
 
